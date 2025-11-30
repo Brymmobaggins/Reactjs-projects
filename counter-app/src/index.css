@@ -1,0 +1,24 @@
+/** @format */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  text-align: center;
+  background-color: #55d118;
+}
+h2 {
+  font-size: 36px;
+}
+.btn {
+  padding: 5px;
+  margin-right: 10px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+}
+.container{
+  
+}
